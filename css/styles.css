@@ -1,0 +1,99 @@
+h1 {
+  /*width: 20%;
+  margin:0 auto 0 auto;   to center a non block element*/
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 562%;  /*100%=16px*    1em=16px*/
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.subtitle{
+  font-weight: normal;
+}
+.Profileimg{
+  border-radius: 50%;
+}
+
+.topc {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 4;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+.skillimg1{
+  width: 50%;
+  float: left;
+  margin-right : 30px;
+  border-radius: 50%;
+}
+.skillimg2{
+  width: 50%;
+  float: right;
+  margin-left : 30px;
+  border-radius: 50%;
+}
+
+.middlec {
+
+}
+
+.bottomc {
+  background-color: #66BFBF
+
+
+
+}
+.skillimg{
+  border-radius: 50%;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.button1{
+  border-radius: 8px;
+  background-color: #11999E;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border: 2px solid white
+}
+.footer-link{
+  color: white;
+  padding: 30px;
+  text-decoration: none;
+}
+.copyr{
+  color: white;
+}
